@@ -1,4 +1,4 @@
-# 👨‍💻 João Freittas
+# 👨‍💻 Olá, eu sou o João Pedro Freitas
 **`Desenvolvedora FullStack`**
 <p align="center">
    Desenvolvedor focado em soluções com .NET, SQL, Clean Code e Arquitetura de Software

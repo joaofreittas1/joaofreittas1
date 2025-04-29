@@ -1,13 +1,9 @@
 # 👨‍💻 Olá, eu sou o João Pedro Freitas
-**`Desenvolvedora FullStack`**
-<p align="center">
-   Desenvolvedor focado em soluções com .NET, SQL, Clean Code e Arquitetura de Software
-</p>
+**`Desenvolvedor FullStack`**
 
 ## 📫 Contato
 <div> 
   
-  <a href="https://www.instagram.com/euujoao_freitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaofreittas46@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-reis-a07b40160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
@@ -15,10 +11,8 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Tenho 25 anos e atuo há mais de 4 anos como desenvolvedor .NET
-- 🔨 "Movido pela curiosidade e fascinado pelos mecanismos que orquestram tudo por trás dos sistemas."
-- ☕ Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL SERVER 2008**, mas explorando o melhor das tecnologias modernas 
-
+- 👨‍💻 Sou o João Pedro Freitas, um desenvolvedor dedicado com sólida experiência prática no desenvolvimento e manutenção de soluções de software a mais de 4 anos, tanto no desenvolvimento back-end quanto front-end. Proficiência em C# e no ecossistema .NET, SQL Server. Ao longo da minha carreira, colaborei em diversos projetos, contribuindo no desenvolvimento de sistemas, implementando novas funcionalidades, depurando e aprimorando sistemas existentes.
+   
 ---
 
 ### 🤖 Linguagens e Tecnologias

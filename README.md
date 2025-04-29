@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👨‍💻 João Freittas
+**`Desenvolvedora FullStack`**
+<p align="center">
+   Desenvolvedor focado em soluções com .NET, SQL, Clean Code e Arquitetura de Software
+</p>
 
-<!--
-**joaofreittas1/joaofreittas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contato
+<div> 
+  
+  <a href="https://www.instagram.com/euujoao_freitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaofreittas46@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-reis-a07b40160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Tenho 25 anos e atuo há mais de 4 anos como desenvolvedor .NET
+- 🔨 "Movido pela curiosidade e fascinado pelos mecanismos que orquestram tudo por trás dos sistemas."
+- ☕ Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL SERVER 2008**, mas explorando o melhor das tecnologias modernas 
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+### Back-end
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat&logo=.net)
+- ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat&logo=.net)
+- ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### Front-end
+- ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 🧠 Em constante evolução
+
+- Estudando 🔍 Clean Architecture, Testes Unitários (XUnit, Moq), SOLID
+- Explorando 🔧 padrões de projeto e técnicas avançadas com `.NET Core` e `.NET Framework`
+- Mergulhando 🐳 no ecossistema Docker, RabbitMQ, CI/CD, Kubernetes e AWS
+
+---
+<br/>
+<br/>
+
+
